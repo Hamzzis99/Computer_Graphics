@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Github\Computer_Graphics\Warmup\Question_2\Question2\Question2\main.cpp(19,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\Github\Computer_Graphics\Warmup\Question_2\Question2\Question2\main.cpp(38,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\Github\Computer_Graphics\Warmup\Question_2\Question2\Question2\main.cpp(58,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\Github\Computer_Graphics\Warmup\Question_2\Question2\Question2\main.cpp(66,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Question2.vcxproj -> E:\Github\Computer_Graphics\Warmup\Question_2\Question2\x64\Debug\Question2.exe

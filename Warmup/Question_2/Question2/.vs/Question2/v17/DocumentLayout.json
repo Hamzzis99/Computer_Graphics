@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Github\\Computer_Graphics_Warmingup\\Question_2\\Question2\\",
+  "WorkspaceRootPath": "E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|C:\\Github\\Computer_Graphics_Warmingup\\Question_2\\Question2\\Question2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|solutionrelative:Question2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Github\\Computer_Graphics_Warmingup\\Question_2\\Question2\\Question2\\main.cpp",
+              "DocumentMoniker": "E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp",
               "RelativeDocumentMoniker": "Question2\\main.cpp",
-              "ToolTip": "C:\\Github\\Computer_Graphics_Warmingup\\Question_2\\Question2\\Question2\\main.cpp",
+              "ToolTip": "E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp",
               "RelativeToolTip": "Question2\\main.cpp",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-10T04:17:43.575Z",
               "EditorCaption": ""

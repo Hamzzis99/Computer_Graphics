@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8FDF53E-8740-4D22-86D4-204961CB3638}|Project1\\Project1.vcxproj|C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8FDF53E-8740-4D22-86D4-204961CB3638}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8FDF53E-8740-4D22-86D4-204961CB3638}|Project1\\Project1.vcxproj|C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\Project1\\function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A8FDF53E-8740-4D22-86D4-204961CB3638}|Project1\\Project1.vcxproj|solutionrelative:Project1\\function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T00:24:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "function.cpp",
               "DocumentMoniker": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\Project1\\function.cpp",
               "RelativeDocumentMoniker": "Project1\\function.cpp",
@@ -35,15 +52,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "day.h",
               "DocumentMoniker": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\Project1\\day.h",
               "RelativeDocumentMoniker": "Project1\\day.h",
               "ToolTip": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_1\\Project1\\Project1\\day.h",
               "RelativeToolTip": "Project1\\day.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T03:33:15.379Z"
+              "WhenOpened": "2024-09-10T03:33:15.379Z",
+              "EditorCaption": ""
             }
           ]
         }

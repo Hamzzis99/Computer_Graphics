@@ -7,7 +7,7 @@ typedef struct {
     int values[3];  // 정수 3개를 저장할 배열
 } Buffer;
 
-#define MAX_BUFFERS 10 // 최대 버퍼 개수
+#define MAX_BUFFERS 20 // 최대 버퍼 개수
 
 Buffer list[MAX_BUFFERS]; // 구조체 배열
 int count = 0;            // 버퍼 개수를 저장하는 전역 변수
@@ -73,39 +73,40 @@ int main() {
 
     // 계속 입력 받기
     while (1) {
-        printf("3개의 정수를 입력하거나 명령어를 입력하세요: ");
+        printf("명령어를 입력하시오.: ");
 
-        // 숫자 입력 시도
-        int result = scanf("%d %d %d", &buffer.values[0], &buffer.values[1], &buffer.values[2]);
+        // 명령어 또는 +로 시작하는지 확인
+        scanf("%s", command);
 
-        if (result == 3) {
-            // 3개의 숫자를 모두 정상적으로 입력받은 경우
-            add(buffer);
-        }
-        else {
-            // 입력이 숫자가 아닌 경우 명령어로 처리
-            scanf("%s", command);  // 남은 입력을 문자열로 받음
-            switch (command[0]) {
-            case 'd': // pop 명령어 (맨 아래 삭제)
-                pop();
-                break;
-            case '-': // dequeue 명령어 (맨 위 삭제)
-                dequeue();
-                break;
-            case 'c': // clear 명령어 (전체 삭제)
-                clear();
-                break;
-            case 'l': // 리스트 출력 명령어
-                display();
-                break;
-            case 'q': // 종료 명령어
-                printf("프로그램을 종료합니다.\n");
-                exit(0);
-                break;
-            default:
-                printf("알 수 없는 명령어입니다.\n");
-                break;
+        // 명령어 처리
+        switch (command[0]) {
+        case '+': // + 명령어, 3개의 정수 입력 받음
+            if (scanf("%d %d %d", &buffer.values[0], &buffer.values[1], &buffer.values[2]) == 3) {
+                add(buffer);  // 버퍼 추가
             }
+            else {
+                printf("정수를 잘못 입력했습니다. 다시 시도하세요.\n");
+            }
+            break;
+        case 'd': // pop 명령어 (맨 아래 삭제)
+            pop();
+            break;
+        case '-': // dequeue 명령어 (맨 위 삭제)
+            dequeue();
+            break;
+        case 'c': // clear 명령어 (전체 삭제)
+            clear();
+            break;
+        case 'l': // 리스트 출력 명령어
+            display();
+            break;
+        case 'q': // 종료 명령어
+            printf("프로그램을 종료합니다.\n");
+            exit(0);
+            break;
+        default:
+            printf("알 수 없는 명령어입니다.\n");
+            break;
         }
 
         // 버퍼 입력 중 개행 문자 제거

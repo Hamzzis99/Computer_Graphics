@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\",
+  "WorkspaceRootPath": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|solutionrelative:Question2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|solutionrelative:Question2\\function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\question2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CED5986-B1E9-4467-BD38-E1DBE9E8ECDC}|Question2\\Question2.vcxproj|solutionrelative:Question2\\question2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp",
+              "DocumentMoniker": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp",
               "RelativeDocumentMoniker": "Question2\\main.cpp",
-              "ToolTip": "E:\\Github\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp",
+              "ToolTip": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\main.cpp",
               "RelativeToolTip": "Question2\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T04:17:43.575Z",
+              "WhenOpened": "2024-09-11T00:53:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "question2.h",
+              "DocumentMoniker": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\question2.h",
+              "RelativeDocumentMoniker": "Question2\\question2.h",
+              "ToolTip": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\question2.h",
+              "RelativeToolTip": "Question2\\question2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T00:21:07.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "86ab5190-6df9-4397-9407-911bcb2db75c",
+        "Display": 0,
+        "X": 1047,
+        "Y": 82,
+        "Width": 580,
+        "Height": 553,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "function.cpp",
+              "DocumentMoniker": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\function.cpp",
+              "RelativeDocumentMoniker": "Question2\\function.cpp",
+              "ToolTip": "C:\\Github\\Computer_Graphics\\Computer_Graphics\\Warmup\\Question_2\\Question2\\Question2\\function.cpp",
+              "RelativeToolTip": "Question2\\function.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T00:21:14.221Z",
               "EditorCaption": ""
             }
           ]
